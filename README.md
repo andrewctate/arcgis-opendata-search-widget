@@ -24,5 +24,5 @@ Then, include the following where you want the search bar to show up.
 
 `npm run dev` will start a development server
 
-Preact docs: https://preactjs.com/guide/v10/api-reference
-Habitat is the magic sauce: https://github.com/zouhir/preact-habitat
+- Preact docs: https://preactjs.com/guide/v10/api-reference
+- Habitat is the magic sauce: https://github.com/zouhir/preact-habitat
